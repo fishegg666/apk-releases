@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Flutter-3.22.2-02569B?style=flat-square&logo=flutter" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-3.4.3-0175C2?style=flat-square&logo=dart" alt="Dart"/>
   <img src="https://img.shields.io/badge/Android-34-3DDC84?style=flat-square&logo=android" alt="Android"/>
-  <img src="https://img.shields.io/badge/APK-v1.2.0-blue?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/APK-v1.3.0-blue?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"/>
 </p>
 
@@ -55,6 +55,39 @@
 - 12 种**预设颜色**一键切换
 - 带阴影的实时颜色预览
 
+### 🎲 摇骰子
+多骰子同时摇动，带弹性动画效果：
+- 支持 1~6 个骰子同时摇动
+- 统计总数、最大、最小、平均值
+
+### 🪙 抛硬币
+带翻转动画的抛硬币工具：
+- 真实硬币翻转动画效果
+- 记录正面/反面次数统计
+
+### 🔑 密码生成器
+自定义密码生成工具：
+- 可配置长度、大小写、数字、符号
+- 实时密码强度指示器
+- 一键复制密码
+
+### 📝 文字计数
+全面的文字统计工具：
+- 统计总字符、无空格字符、单词数、行数
+- 汉字数、数字数统计
+- 预估阅读时间
+
+### 🔢 进制转换
+支持二进制/八进制/十进制/十六进制互转：
+- 输入自动转换到所有进制
+- 彩色标签区分不同进制
+
+### 🍅 番茄专注
+番茄工作法计时器：
+- 25分钟专注 + 5分钟休息模式
+- 每4个番茄后长休息15分钟
+- 圆形动画计时器，震动提醒
+
 ---
 
 ## 📸 截图
@@ -69,10 +102,11 @@
 
 ## ⬇️ 下载安装
 
-### 最新版本：v1.2.0
+### 最新版本：v1.3.0
 
 | 版本 | 下载链接 | 更新日期 |
 |------|---------|---------|
+| v1.3.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.3.0/app-debug.apk) | 2025-01 |
 | v1.2.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.2.0/app-debug.apk) | 2025-01 |
 | v1.1.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.1.0/app-debug.apk) | 2025-01 |
 | v1.0.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.0.0/app-debug.apk) | 2025-01 |
@@ -99,7 +133,16 @@
 
 ## 📋 更新日志
 
-### v1.2.0 (最新)
+### v1.3.0 (最新)
+- 🎲 新增摇骰子工具（多骰子 + 动画效果）
+- 🪙 新增抛硬币工具（翻转动画 + 统计）
+- 🔑 新增密码生成器（强度指示器）
+- 📝 新增文字计数工具（完整统计指标）
+- 🔢 新增进制转换工具（2/8/10/16进制互转）
+- 🍅 新增番茄专注工具（番茄工作法计时器）
+- 📱 主页改版为3列网格布局
+
+### v1.2.0
 - ✨ 全新多功能工具箱上线
 - 🧮 新增计算器工具
 - 🔄 新增单位换算工具
