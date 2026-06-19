@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Flutter-3.22.2-02569B?style=flat-square&logo=flutter" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-3.4.3-0175C2?style=flat-square&logo=dart" alt="Dart"/>
   <img src="https://img.shields.io/badge/Android-34-3DDC84?style=flat-square&logo=android" alt="Android"/>
-  <img src="https://img.shields.io/badge/APK-v1.3.0-blue?style=flat-square" alt="Version"/>
+  <img src="https://img.shields.io/badge/APK-v1.4.0-blue?style=flat-square" alt="Version"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"/>
 </p>
 
@@ -102,10 +102,11 @@
 
 ## ⬇️ 下载安装
 
-### 最新版本：v1.3.0
+### 最新版本：v1.4.0
 
 | 版本 | 下载链接 | 更新日期 |
 |------|---------|---------|
+| v1.4.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.4.0/app-debug.apk) | 2025-01 |
 | v1.3.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.3.0/app-debug.apk) | 2025-01 |
 | v1.2.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.2.0/app-debug.apk) | 2025-01 |
 | v1.1.0 | [📥 下载 APK](https://github.com/fishegg666/apk-releases/releases/download/v1.1.0/app-debug.apk) | 2025-01 |
@@ -133,7 +134,14 @@
 
 ## 📋 更新日志
 
-### v1.3.0 (最新)
+### v1.4.0 (最新)
+- 📱 新增二维码生成器（支持文本/网址/WiFi/电话/邮箱）
+- ⏱️ 新增秒表计时器（精确到毫秒，支持计次记录）
+- 📝 新增记事本（本地存储，支持删除）
+- 🔦 新增手电筒（调用闪光灯）
+- 📊 工具总数增至 16 个
+
+### v1.3.0
 - 🎲 新增摇骰子工具（多骰子 + 动画效果）
 - 🪙 新增抛硬币工具（翻转动画 + 统计）
 - 🔑 新增密码生成器（强度指示器）
